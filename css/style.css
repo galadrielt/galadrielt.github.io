@@ -24,12 +24,15 @@ a:active {
   text-decoration: underline;
 }
 
+
 .centered {
     text-align: center;
-    padding-top: 2em;
+    padding-top: "2em";
 }
 
-.rounded {
+
+ img{
+
     border-radius: 20px;
 }
 
@@ -52,7 +55,7 @@ footer {
 
 }
 
-hr.new3 {
+.new3 {
     border-top: 2px dotted black;
     margin-left: 198px;
     margin-right: 198px;
