@@ -1,0 +1,15 @@
+img {
+  display: block;
+  margin-top: 8em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+  border-radius: 50em;
+}
+
+p {
+
+  text-align: center;
+  font-family: "Lato", sans-serif
+}

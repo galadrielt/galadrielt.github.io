@@ -1,0 +1,15 @@
+p {
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  color: #f55442;
+
+}
+
+a {
+  text-decoration: none;
+  font-size: 2em;
+}
+
+div {
+  margin: 8em auto;
+}
