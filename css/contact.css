@@ -11,6 +11,7 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 60px;
   display: block;
+  overflow: hidden;
 }
 
 h1 {
@@ -65,5 +66,25 @@ img {
     position: relative;
     display: block;
     height: 400px;
-    width: 750px;
+    max-width: 750px;
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    display: block;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+.footer {
+  display: inline;
+
+  text-align: center;
+}
+section {
+  padding: 10px 10px 0 70px;
+
+}
+
 }
