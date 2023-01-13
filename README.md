@@ -1,6 +1,5 @@
 # galadrielt.github.io
-future info.
-
+future info.  
 need to update contact page.
 
 
